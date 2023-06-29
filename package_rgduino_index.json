@@ -14,7 +14,7 @@
           "architecture": "stm32",
           "version": "0.1.0",
           "category": "Contributed",
-          "url": "https://github.com/BlaGodGiving/duino/raw/master/STM32-0.1.0.zip",
+          "url": "https://github.com/iblagodatskiy/RGduino/raw/main/STM32-0.1.0.zip",
           "archiveFileName": "STM32-0.1.0.zip",
           "checksum": "SHA-256:f8eb3be0a6fe4530287ef9781537d47a8e2c90212105386d658f0475de7122e1",
           "size": "4627177",
@@ -328,7 +328,7 @@
           [
             {
               "host": "i686-mingw32",
-              "url": "https://github.com/BlaGodGiving/duino/raw/master/STM32Tools-2.0.0-windows.zip",
+              "url": "https://github.com/iblagodatskiy/RGduino/raw/main/STM32Tools-2.0.0-windows.zip",
               "archiveFileName": "STM32Tools-2.0.0-windows.zip",
               "checksum": "SHA-256:61c354e12311f7e642eb4ed3b0494ed56b88c6fc8fc6a1f26b1eb70eb9e8bcc1",
               "size": "6460605"
