@@ -16,8 +16,8 @@
           "category": "Contributed",
           "url": "https://github.com/iblagodatskiy/RGduino/raw/main/STM32-0.1.0.zip",
           "archiveFileName": "STM32-0.1.0.zip",
-          "checksum": "SHA-256:20bebb23353b1cb2948d94caf9c4dd02a17a13a779071b00bcc5ea64b9054aee",
-          "size": "4627220",
+          "checksum": "SHA-256:97015f0a77f8968843c96e54c30d85b6375eea0116b5163d949099aa75efbe76",
+          "size": "4627252",
           "boards": [
             {"name": "RGduino"}
           ],
