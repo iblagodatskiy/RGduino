@@ -40,14 +40,14 @@
           ]
         },
 		{
-          "name": "RGduino",
+		  "name": "RGduino",
           "architecture": "stm32",
-          "version": "0.1.0",
+          "version": "0.1.1",
           "category": "Contributed",
           "url": "https://github.com/iblagodatskiy/RGduino/raw/main/STM32-0.1.0.zip",
-          "archiveFileName": "STM32-0.1.0.zip",
-          "checksum": "SHA-256:9f9c7e1a67eeab6e5f0de613fb1643981e9d089c9900e61fd0b7dda81b22c792",
-          "size": "4821605",
+          "archiveFileName": "STM32-0.1.1.zip",
+          "checksum": "SHA-256:8c08f86309f2f8189d95997accb9e1a80a79abc4e03aa3e6a993121b9adb735a",
+          "size": "4706430",
           "boards": [
             {"name": "RGduino"}
           ],
