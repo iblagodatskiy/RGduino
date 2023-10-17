@@ -68,6 +68,36 @@
               "version": "5.7.0"
             }
           ]
+        },
+		{
+		  "name": "RGduino",
+          "architecture": "stm32",
+          "version": "0.2.1",
+          "category": "Contributed",
+          "url": "https://github.com/iblagodatskiy/RGduino/raw/main/STM32-0.1.1.zip",
+          "archiveFileName": "STM32-0.2.1.zip",
+          "checksum": "SHA-256:EA3C1B9D0F535DB3F71BC62FA9A03542AC19C93299B9ED083F7D63F074013E8E", 
+          "size": "6757440",
+          "boards": [
+            {"name": "RGduino"}
+          ],
+          "toolsDependencies": [ 
+            {
+              "packager": "RGduino",
+              "name": "xpack-arm-none-eabi-gcc",
+              "version": "9.3.1-1.3"
+            },
+            {
+              "packager": "RGduino",
+              "name": "STM32Tools",
+              "version": "2.0.0"
+            },
+            {
+              "packager": "RGduino",
+              "name": "CMSIS",
+              "version": "5.7.0"
+            }
+          ]
         }
       ],
       "tools": [
@@ -360,8 +390,8 @@
               "host": "i686-mingw32",
               "url": "https://github.com/iblagodatskiy/RGduino/raw/main/STM32Tools-2.0.0-windows.zip",
               "archiveFileName": "STM32Tools-2.0.0-windows.zip",
-              "checksum": "SHA-256:95da37e0b4a5eec08474d51525ec9b54efc5721951ace5e530d6085fbe2725f5",
-              "size": "6460605"
+              "checksum": "SHA-256:A58BEF2CEA1EC8A01460FB20AF5AFF1C8254222688C8A9D7C753D5A71780983E",
+              "size": "6507800"
             },
             {
               "host": "x86_64-apple-darwin",
